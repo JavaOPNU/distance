@@ -25,6 +25,8 @@
 ## Перелік літератури:
 
 1. Освоюємо Java - [посилання](https://uk.wikibooks.org/wiki/Освоюємо_Java)
+1. Java Підручник - [посилання](https://w3schoolsua.github.io/java/index.html)
+1. Сайт "JavaRush" - [посилання](https://javarush.ru/ua/?post=full)
 
 ## Завдання для виконання
 
