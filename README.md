@@ -1,3 +1,12 @@
-# Завдання для студентів заочного та післядипломного відділення
+# Дисципліна "Об'єктно-орієнтоване програмування"
 
-## Перший семестр - [посилання](https://github.com/JavaOPNU/distance/blob/main/first_term.md)
+## Інформація про викладача
+
+Викладач: Годовиченко Микола Анатолійович<br>
+email: hodovychenko@op.edu.ua<br>
+telegram: [@MykolaHdv](https://t.me/MykolaHdv)<br>
+github: [@MykolaHodovychenko](https://github.com/MykolaHodovychenko)
+
+## Завдання для студентів заочного та післядипломного відділення
+
+### Перший семестр - [посилання](https://github.com/JavaOPNU/distance/blob/main/first_term.md)
