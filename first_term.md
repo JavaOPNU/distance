@@ -30,8 +30,8 @@
 
 ## Завдання для виконання
 
-Перша лабораторна робота - [посилання](https://github.com/JavaOPNU/distance/blob/main/first_term_first_lab.md)
+Перша лабораторна робота - [посилання](first_term_first_lab.md)
 
-Друга лабораторна робота - [посилання]()
+Друга лабораторна робота - [посилання](first_term_second_lab.md)
 
-Контрольна робота - [посилання]()
+Контрольна робота - [посилання](first_term_control_work.md)
